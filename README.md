@@ -16,7 +16,7 @@ literally nothing! (right now, anyway)
 
 <img width=48 alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/konpa/devicon/master/icons/javascript/javascript-original.svg"/>
 
-<img width=48 alt="PHP" title="PHP... reluctantly." src="https://raw.githubusercontent.com/konpa/devicon/master/icons/php/php-original.svg"/>
+<img width=48 alt="PHP" title="PHP... reluctantly." src="https://raw.githubusercontent.com/konpa/devicon/master/icons/php/php-plain.svg"/>
 
 ## stalk me
 discord: erica#8591
