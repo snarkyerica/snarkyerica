@@ -1,8 +1,5 @@
 <div align="center">
 
-# erica🌈✨
-gender vampire · code gal ⋅ chaotic neutral
-
 ## what i'm doing
 literally nothing! (right now, anyway)
 
