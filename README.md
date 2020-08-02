@@ -25,8 +25,11 @@ email: [me@athenas.space][email]
 
 twitter: [ericathesnark][twitter]
 
+keybase: [atheri][keybase]
+
 </div>
 
 <!-- hyperlinks -->
 [email]: mailto:me@athenas.space
 [twitter]: https://twitter.com/ericathesnark
+[keybase]: https://keybase.io/atheri
