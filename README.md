@@ -22,8 +22,6 @@ literally nothing! (right now, anyway)
 <img width=48 alt="PHP" title="PHP... reluctantly." src="https://raw.githubusercontent.com/konpa/devicon/master/icons/php/php-plain.svg"/>
 
 ### stalk me
-discord: eri.#8591
-
 email: [erica@ericas.site][email]
 
 twitter: [ericathesnark][twitter]
