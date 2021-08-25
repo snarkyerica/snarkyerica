@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/ericathesnark/ericathesnark/master/img/hero.svg" alt="hero">
+<img src="https://raw.githubusercontent.com/snarkyerica/snarkyerica/master/img/hero.svg" alt="hero">
 
 ### what i'm doing
 literally nothing! (right now, anyway)
@@ -24,15 +24,15 @@ literally nothing! (right now, anyway)
 ### stalk me
 email: [erica@ericas.site][email]
 
-twitter: [ericathesnark][twitter]
+twitter: [snarkyerica][twitter]
 
 keybase: [atheri][keybase]
 
 </div>
 
-<img src="https://raw.githubusercontent.com/ericathesnark/ericathesnark/master/img/foot.svg" alt="footer">
+<img src="https://raw.githubusercontent.com/snarkyerica/snarkyerica/master/img/foot.svg" alt="footer">
 
 <!-- hyperlinks -->
 [email]: mailto:erica@ericas.site
-[twitter]: https://twitter.com/ericathesnark
+[twitter]: https://twitter.com/snarkyerica
 [keybase]: https://keybase.io/atheri
