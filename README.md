@@ -1,38 +1,19 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/snarkyerica/snarkyerica/master/img/hero.svg" alt="hero">
+<section align="center">
 
-### what i'm doing
-literally nothing! (right now, anyway)
-
-...and probably some secret stuff.
-
-### what i know
-<img width=48 alt="C" title="C" src="https://raw.githubusercontent.com/konpa/devicon/master/icons/c/c-original.svg"/>
-
+### mad skillz
 <img width=48 alt="C#" title="C#" src="https://raw.githubusercontent.com/konpa/devicon/master/icons/csharp/csharp-original.svg"/>
-
 <img width=48 alt="Python" title="Python" src="https://raw.githubusercontent.com/konpa/devicon/master/icons/python/python-original.svg"/>
+<img width=48 alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/konpa/devicon/master/icons/typescript/typescript-original.svg"/>
 
-<img width=48 alt="HTML" title="HTML" src="https://raw.githubusercontent.com/konpa/devicon/master/icons/html5/html5-original-wordmark.svg"/>
+<kbd>object oriented or bust</kbd>
 
-<img width=48 alt="CSS" title="CSS" src="https://raw.githubusercontent.com/konpa/devicon/master/icons/css3/css3-original-wordmark.svg"/>
-
-<img width=48 alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/konpa/devicon/master/icons/javascript/javascript-original.svg"/>
-
-<img width=48 alt="PHP" title="PHP... reluctantly." src="https://raw.githubusercontent.com/konpa/devicon/master/icons/php/php-plain.svg"/>
-
-### stalk me
+### keep in touch
 email: [erica@ericas.site][email]
 
-twitter: [snarkyerica][twitter]
+mastodon: [erica@chaosfem.tw][masto]
 
-keybase: [atheri][keybase]
-
-</div>
-
-<img src="https://raw.githubusercontent.com/snarkyerica/snarkyerica/master/img/foot.svg" alt="footer">
+</section>
 
 <!-- hyperlinks -->
 [email]: mailto:erica@ericas.site
-[twitter]: https://twitter.com/snarkyerica
-[keybase]: https://keybase.io/atheri
+[masto]: https://chaosfem.tw/@erica
